@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "app": "cell",
+  "global": "__sveltekit_bnrhf4",
+  "start": "_app/immutable/entry/start.qKbwBFIz.js",
+  "appEntry": "_app/immutable/entry/app.wEKQYolA.js",
+  "styles": [
+    "https://yissok.github.io/cell-dist/leaflet.css",
+    "https://yissok.github.io/cell-dist/rendered.css",
+    "https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-YEXBCWLWG6",
+    "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",
+    "https://yissok.github.io/cell-dist/leaflet.js",
+    "https://cdn.jsdelivr.net/npm/flatpickr"
+  ],
+  "preloads": [
+    "https://yissok.github.io/cell-dist/_app/immutable/entry/start.qKbwBFIz.js",
+    "https://yissok.github.io/cell-dist/_app/immutable/chunks/entry.BaBVp0xY.js",
+    "https://yissok.github.io/cell-dist/_app/immutable/chunks/runtime.Nxb1kIRl.js",
+    "https://yissok.github.io/cell-dist/_app/immutable/chunks/paths.DBnh0HjS.js",
+    "https://yissok.github.io/cell-dist/_app/immutable/entry/app.wEKQYolA.js",
+    "https://yissok.github.io/cell-dist/_app/immutable/chunks/store.xD0uFgUq.js",
+    "https://yissok.github.io/cell-dist/_app/immutable/chunks/disclose-version.DZTej8kp.js",
+    "https://yissok.github.io/cell-dist/_app/immutable/chunks/index-client.GfjvekPa.js"
+  ]
+}
